@@ -1,0 +1,14 @@
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/bin/Debug/net8.0/exercise
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/bin/Debug/net8.0/exercise.deps.json
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/bin/Debug/net8.0/exercise.runtimeconfig.json
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/bin/Debug/net8.0/exercise.dll
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/bin/Debug/net8.0/exercise.pdb
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/obj/Debug/net8.0/exercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/obj/Debug/net8.0/exercise.AssemblyInfoInputs.cache
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/obj/Debug/net8.0/exercise.AssemblyInfo.cs
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/obj/Debug/net8.0/exercise.csproj.CoreCompileInputs.cache
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/obj/Debug/net8.0/exercise.dll
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/obj/Debug/net8.0/refint/exercise.dll
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/obj/Debug/net8.0/exercise.pdb
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/obj/Debug/net8.0/exercise.genruntimeconfig.cache
+/home/marco/Documenti/design-patterns/Decorator and Adapter/exercises/exercise/obj/Debug/net8.0/ref/exercise.dll
