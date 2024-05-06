@@ -1,0 +1,15 @@
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/bin/Debug/net8.0/001
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/bin/Debug/net8.0/001.deps.json
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/bin/Debug/net8.0/001.runtimeconfig.json
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/bin/Debug/net8.0/001.dll
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/bin/Debug/net8.0/001.pdb
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/obj/Debug/net8.0/001.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/obj/Debug/net8.0/001.AssemblyInfoInputs.cache
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/obj/Debug/net8.0/001.AssemblyInfo.cs
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/obj/Debug/net8.0/001.csproj.CoreCompileInputs.cache
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/obj/Debug/net8.0/001.sourcelink.json
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/obj/Debug/net8.0/001.dll
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/obj/Debug/net8.0/refint/001.dll
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/obj/Debug/net8.0/001.pdb
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/obj/Debug/net8.0/001.genruntimeconfig.cache
+/home/marco/Documenti/git-p/design-patterns/design-patterns/001/obj/Debug/net8.0/ref/001.dll
